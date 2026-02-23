@@ -1,6 +1,6 @@
 if True:
-    print("not true")
+    print("IS IT TRUE?")
 if True:
-    print("love")
- if True:
-            print("love")
+    print("LOVE")
+if True:
+            print("TRUE")
